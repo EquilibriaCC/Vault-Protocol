@@ -1,4 +1,4 @@
-## Triton and Sao: Stable value via consensus mint and burn
+## Triton and Sao: Stable value via consensus mint and burn v1
 
 Lead Developer:
 Harrison Hesslink
