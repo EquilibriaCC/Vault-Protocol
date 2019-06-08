@@ -1,9 +1,12 @@
-Triton and Sao: Stable value via consensus mint and burn
+## Triton and Sao: Stable value via consensus mint and burn
+
 Lead Developer:
 Harrison Hesslink
 harrison@xtri.network
+
 https://xtri.network/
-Abstract. A single-chain, dual-coin, peer-to-peer version of electronic cash that gives users
+
+**Abstract**. A single-chain, dual-coin, peer-to-peer version of electronic cash that gives users
 the ability to burn and destroy a primary coin with volatile value in order to mint and create
 an equivalent US dollar value of a secondary coin could result in a stable US dollar pegged
 secondary coin if these mint and burn mechanisms also ran in the reverse allowing stablecoin
